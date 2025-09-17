@@ -17,7 +17,8 @@ Entre mis fortalezas destaco la **capacidad de aprender rápidamente**, la **pro
 
 ## :pencil: Formación
 - **Universidad de Manizales** – Ingeniería de Sistemas y Telecomunicaciones *(V semestre)*  
-- **Academia Nativo Ads Pro** – Trafficker Digital *(aliada de Google)
+- **Academia Nativo Ads Pro** – Trafficker Digital *(aliada de Google)*
+- **Unitecnica** - Técnico en Diseño Gráfico
 
 ## ⚒️ Experiencia actual
 - **Desarrollador de Software en Beezum Datum Datalab S.A.S**  
